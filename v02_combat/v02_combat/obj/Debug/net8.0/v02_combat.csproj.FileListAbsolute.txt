@@ -1,0 +1,14 @@
+C:\Users\dadav\source\repos\v02_combat\v02_combat\bin\Debug\net8.0\v02_combat.exe
+C:\Users\dadav\source\repos\v02_combat\v02_combat\bin\Debug\net8.0\v02_combat.deps.json
+C:\Users\dadav\source\repos\v02_combat\v02_combat\bin\Debug\net8.0\v02_combat.runtimeconfig.json
+C:\Users\dadav\source\repos\v02_combat\v02_combat\bin\Debug\net8.0\v02_combat.dll
+C:\Users\dadav\source\repos\v02_combat\v02_combat\bin\Debug\net8.0\v02_combat.pdb
+C:\Users\dadav\source\repos\v02_combat\v02_combat\obj\Debug\net8.0\v02_combat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dadav\source\repos\v02_combat\v02_combat\obj\Debug\net8.0\v02_combat.AssemblyInfoInputs.cache
+C:\Users\dadav\source\repos\v02_combat\v02_combat\obj\Debug\net8.0\v02_combat.AssemblyInfo.cs
+C:\Users\dadav\source\repos\v02_combat\v02_combat\obj\Debug\net8.0\v02_combat.csproj.CoreCompileInputs.cache
+C:\Users\dadav\source\repos\v02_combat\v02_combat\obj\Debug\net8.0\v02_combat.dll
+C:\Users\dadav\source\repos\v02_combat\v02_combat\obj\Debug\net8.0\refint\v02_combat.dll
+C:\Users\dadav\source\repos\v02_combat\v02_combat\obj\Debug\net8.0\v02_combat.pdb
+C:\Users\dadav\source\repos\v02_combat\v02_combat\obj\Debug\net8.0\v02_combat.genruntimeconfig.cache
+C:\Users\dadav\source\repos\v02_combat\v02_combat\obj\Debug\net8.0\ref\v02_combat.dll
